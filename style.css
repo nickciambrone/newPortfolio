@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(5, 5, 5)
+}
+img{
+    border: 1px solid teal;
+    position: relative;
+    left: 7px;
+}
